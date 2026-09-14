@@ -79,7 +79,7 @@
     // "MAX_UPPART": "16777216",
     //
     // 前端静态资源 CDN 地址，支持 $version 占位符
-    // "ASSET_URLS": "https://example.com/dist",
+    "ASSET_URLS": "https://registry.npmmirror.com/@openlist-frontend/openlist-frontend/$version/files/dist",
     //
     // 允许作为种子数据来源的主机白名单，逗号/空格分隔
     // "ALLOW_SEED": "",
